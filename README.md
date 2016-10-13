@@ -41,9 +41,9 @@ For example, using python, etc. You can reset a device (*for example, to upload 
 Schematic
 =========
 
-![SB Serial USB Interface](/img/ch340g-schematic?raw=true "Schematic")
-![SB Serial USB Interface](/img/ch340g-silk?raw=true "Silk Screen")
-![SB Serial USB Interface](/img/ch340g-pcb?raw=true "PCB")
+![SB Serial USB Interface](/img/ch340g-schematic.jpg?raw=true "Schematic")
+![SB Serial USB Interface](/img/ch340g-silk.jpg?raw=true "Silk Screen")
+![SB Serial USB Interface](/img/ch340g-pcb.jpg?raw=true "PCB")
 
 Features
 ========
